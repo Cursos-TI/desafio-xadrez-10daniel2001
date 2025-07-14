@@ -11,7 +11,6 @@ int main(){
     int rainha=1;
                
     //movientaçao da torre usando FOR
-    //====
             printf("MOVIMENTAÇAO DA TORRE 5 CASAS PARA DIREITA\n");
                for ( torre = 0; torre < 5; torre++)
                {
@@ -19,15 +18,13 @@ int main(){
                }
 
     //MOVIMENTAÇAO DO BISPO USANDO WHILE
-    //====
             printf("\nMOVIENTAÇAO DO BISPO 5 CASAS NA DIAGONAL CASAS,DIREITA\n");           
                while (bispo<=5)
                {
                 printf("BISPO << CIMA,DIREITA\n", bispo);
                 bispo++;
                }
-    //MOVIENTAÇAO DA RAINHA USANDO DO WHILE
-    //====
+    //MOVIMENTAÇAO DA RAINHA USANDO DO WHILE
             printf("\nMOVIENTAÇAO DA RAINHA 8 CASAS PARA ESQUERDA\n");           
                do
                {

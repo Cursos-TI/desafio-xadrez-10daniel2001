@@ -48,5 +48,5 @@ printf("CAVALO\n");
             
 
 //carlos daniel 13/07/2025
-             return 0;
+             return 0; //vs code
             }

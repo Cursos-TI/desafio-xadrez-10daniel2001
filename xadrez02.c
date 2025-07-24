@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <stdio.h>  
+//Carlos daniel
             int main(){ 
 printf("BISPO\n");
               //movimentando o bispo ultilizando a estrutura for
